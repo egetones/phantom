@@ -10,7 +10,7 @@
   <strong>A User-land Rootkit PoC using LD_PRELOAD to hide processes from system tools.</strong>
 </p>
 
-[Report Bug](https://github.com/your-username/phantom/issues) · [Request Feature](https://github.com/your-username/phantom/issues)
+[Report Bug](https://github.com/egetones/phantom/issues) · [Request Feature](https://github.com/egetones/phantom/issues)
 
 </div>
 
