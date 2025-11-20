@@ -30,7 +30,7 @@ By utilizing the `LD_PRELOAD` environment variable, Phantom intercepts calls to 
 
 ---
 
-## 🛠️ Usage
+## Usage
 
 ### 1. Compile
 ```bash
